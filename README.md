@@ -1,3 +1,5 @@
+(This is not a perfect project but it was my first job, when I didn't know much about JS and backend development.
+I keep it without changing anything here because it was a nice experience)
 # DigitalMenu
 Digital menu for a pizzeria 
 
